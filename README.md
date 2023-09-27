@@ -1,4 +1,4 @@
-<header>
+# Project 
 
 <!--
   <<< Author notes: Course header >>>
